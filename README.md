@@ -2,8 +2,15 @@
 
 ---
 
+<p float="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true&width=1000" width="33%" />
+   <img src= "https://github.com/inouelis/inouelis/blob/main/cat-sleep.gif" width="33%">
+
+</p>
+
+
 <p align="center">
-  <img src= "https://github.com/inouelis/inouelis/blob/main/cat-sleep.gif" width="200" height="200">
+ 
 </p>
 
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true&width=1000)](https://open.spotify.com/user/c881mhcn9uyiufvboifs02lf0) 
