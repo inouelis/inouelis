@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/inouelis/inouelis/blob/main/header.png)](https://github.com/inouelis)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true)  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/VdIKn05yIh8AAAAC/cat-sleep.gif">
 
 <!--
 **inouelis/inouelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
