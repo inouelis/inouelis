@@ -4,7 +4,8 @@
 
 <p float="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true" width="500" height="330"/>
-   <img src= "https://github.com/inouelis/inouelis/blob/main/cat-sleep.gif" style="border-radius: 25px;" width="330">
+  <div style="border-radius: 25px;"> <img src= "https://github.com/inouelis/inouelis/blob/main/cat-sleep.gif" width="330"></div>
+   
 </p>
 
 
