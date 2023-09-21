@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true)
 
 <!--
 **inouelis/inouelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
