@@ -2,7 +2,6 @@
 
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true&width=500)](https://open.spotify.com/user/c881mhcn9uyiufvboifs02lf0) 
 
-![Alt text](https://media.tenor.com/VdIKn05yIh8AAAAC/cat-sleep.gif)
 
 
 <!--
