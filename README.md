@@ -3,7 +3,7 @@
 ---
 
 <p float="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true" width="600"/>
    <img src= "https://github.com/inouelis/inouelis/blob/main/cat-sleep.gif" width="330">
 </p>
 
