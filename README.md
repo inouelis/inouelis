@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/inouelis/inouelis/blob/main/header.png)](https://github.com/inouelis)
-[![sfsaf](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true)]
 ---
 
 <p float="left">
