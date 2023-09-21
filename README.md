@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/inouelis/inouelis/blob/main/header.png)](https://github.com/inouelis)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true)  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c881mhcn9uyiufvboifs02lf0&unique=true&width=1000)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inouelis&show_icons=true&theme=radical)
 
 <!--
 **inouelis/inouelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
